@@ -12,7 +12,7 @@ const Team = () => {
       gender: "Female",
       nationality: "Moroccan",
       email: "ittouaouragh20@gmail.com",
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=400&q=80"
+      image: "/lovable-uploads/c068c41c-ebda-41e7-8649-072d3b6b35d3.png"
     },
     {
       name: "Saad-eddine El Assri",
@@ -22,7 +22,7 @@ const Team = () => {
       location: "Azrou-Ait Melloul, Morocco",
       gender: "Male",
       nationality: "Moroccan",
-      image: "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?auto=format&fit=crop&w=400&q=80"
+      image: "/lovable-uploads/04fe3267-1227-4ca0-b555-b09c6073f700.png"
     },
     {
       name: "Fatima Elkssir",
@@ -32,7 +32,7 @@ const Team = () => {
       location: "Agadir, Morocco",
       gender: "Female",
       nationality: "Moroccan",
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=400&q=80"
+      image: "/lovable-uploads/c068c41c-ebda-41e7-8649-072d3b6b35d3.png"
     }
   ];
 

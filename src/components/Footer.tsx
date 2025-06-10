@@ -1,5 +1,5 @@
 
-import { Leaf, Mail, Phone, MapPin } from 'lucide-react';
+import { Mail, Phone, MapPin } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -8,11 +8,12 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Company Info */}
           <div>
-            <div className="flex items-center space-x-2 mb-4">
-              <div className="w-8 h-8 bg-green-600 rounded-full flex items-center justify-center">
-                <Leaf className="w-4 h-4 text-white" />
-              </div>
-              <span className="text-xl font-bold">AgroBioGaz</span>
+            <div className="flex items-center space-x-3 mb-4">
+              <img 
+                src="/lovable-uploads/fa701c00-f26e-408c-8050-1302223f1bd1.png" 
+                alt="AgroBioGaz"
+                className="h-8 w-auto brightness-0 invert"
+              />
             </div>
             <p className="text-gray-300 leading-relaxed">
               From Farm to Energy: A Virtuous Cycle. Empowering farmers through sustainable biogas solutions.

@@ -23,11 +23,12 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-green-600 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-sm">A</span>
-            </div>
-            <span className="text-xl font-bold text-gray-900">AgroBioGaz</span>
+          <Link to="/" className="flex items-center space-x-3">
+            <img 
+              src="/lovable-uploads/fa701c00-f26e-408c-8050-1302223f1bd1.png" 
+              alt="AgroBioGaz"
+              className="h-10 w-auto"
+            />
           </Link>
 
           {/* Desktop Navigation */}

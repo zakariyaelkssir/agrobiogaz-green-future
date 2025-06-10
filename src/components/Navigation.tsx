@@ -27,7 +27,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/fa701c00-f26e-408c-8050-1302223f1bd1.png" 
               alt="AgroBioGaz"
-              className="h-10 w-auto"
+              className="h-12 w-auto"
             />
           </Link>
 

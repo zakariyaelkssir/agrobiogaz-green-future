@@ -12,7 +12,7 @@ const Footer = () => {
               <img 
                 src="/lovable-uploads/fa701c00-f26e-408c-8050-1302223f1bd1.png" 
                 alt="AgroBioGaz"
-                className="h-8 w-auto brightness-0 invert"
+                className="h-10 w-auto brightness-0 invert"
               />
             </div>
             <p className="text-gray-300 leading-relaxed">

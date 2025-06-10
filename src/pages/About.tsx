@@ -35,8 +35,8 @@ const About = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
-                alt="Team working together"
+                src="/lovable-uploads/fe72c9d2-2eae-4291-92f0-70e4a3b3f162.png"
+                alt="Agricultural collage showing farming equipment, tomatoes, corn, and agricultural fields"
                 className="rounded-lg shadow-lg"
               />
             </div>
